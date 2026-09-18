@@ -1,0 +1,19 @@
+# Python & Virtualenv
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+*.egg-info/
+
+# PlatformIO & C++
+.pio/
+.vscode/
+.idea/
+*.o
+*.bin
+*.elf
+
+# Dataset y logs
+*.csv
+*.tflite

@@ -1,0 +1,3 @@
+AuraSense Edge AI Model
+Accuracy: 94.25%
+Num Features: 7
